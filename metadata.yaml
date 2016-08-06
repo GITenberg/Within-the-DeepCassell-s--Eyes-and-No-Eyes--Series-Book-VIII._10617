@@ -1,0 +1,28 @@
+_repo: Within-the-DeepCassell-s--Eyes-and-No-Eyes--Series-Book-VIII._10617
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, R. Cadwallader
+    gutenberg_agent_id: '3567'
+    url: http://www.gutenberg.org/2009/agents/3567
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Marine animals -- Juvenile literature'
+- GITenberg
+tableOfContents: Fish for breakfast -- The story of the flat fish -- Seals -- Some
+  strange nurseries -- The ogre of the deep -- The whale -- Tigers of the sea -- The
+  dangers of the deep -- The fish of our rock-pools -- Some curious fishes -- The
+  garden of the sea.
+title: 'Within the Deep
+
+  Cassell''s "Eyes and No Eyes" Series, Book VIII.'
+url: http://www.gutenberg.org/ebooks/10617
