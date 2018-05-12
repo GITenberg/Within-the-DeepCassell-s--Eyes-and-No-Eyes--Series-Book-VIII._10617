@@ -1,11 +1,16 @@
 _repo: Within-the-DeepCassell-s--Eyes-and-No-Eyes--Series-Book-VIII._10617
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smith, R. Cadwallader
     gutenberg_agent_id: '3567'
     url: http://www.gutenberg.org/2009/agents/3567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10617#Within-the-DeepCassell-s--Eyes-and-No-Eyes--Series-Book-VIII.
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
